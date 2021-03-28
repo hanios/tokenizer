@@ -7,4 +7,8 @@ tokenize address
 - press windows+R to open the Run dialog
 - paste path. click ok
 
+OR
+
+- use any program that can compile c++
+
 
